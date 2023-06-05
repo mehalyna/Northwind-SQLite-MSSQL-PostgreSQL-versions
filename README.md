@@ -1,5 +1,5 @@
-# Northwind-SQLite-version
-Northwind SQLite version
+# Northwind-SQLite-MSSQL-PostgreSQL-versions
+Northwind SQLite SQLite, MS SQL Server and PostgreSQL versions
 
 An updated SQLite version of the Northwind DB file is presented.
 
